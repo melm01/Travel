@@ -1,4 +1,4 @@
-{
+l{
   "name": "coasteriatravel",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
@@ -19,5 +19,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/coasteriatravel"
+  "homepage": "https://melm01.github.io/coasteriatravel"
 }
